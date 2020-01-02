@@ -10,8 +10,8 @@ index = 0
 while index < director_data[:movies].length do
   total += director_data[:movies][index][:worldwide_grosses]
   index += 1
-end
-total
+  end
+  total
 end
 
 # Write a method that, given an NDS creates a new Hash
