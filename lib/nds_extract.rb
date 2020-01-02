@@ -28,4 +28,4 @@ def directors_totals(nds)
     director_index += 1
   end
   result
-endl
+end
